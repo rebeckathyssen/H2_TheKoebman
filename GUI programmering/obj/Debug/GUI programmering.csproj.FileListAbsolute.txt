@@ -1,0 +1,18 @@
+C:\projects\GUI programmering\GUI programmering\bin\Debug\GUI programmering.exe.config
+C:\projects\GUI programmering\GUI programmering\bin\Debug\GUI programmering.exe
+C:\projects\GUI programmering\GUI programmering\bin\Debug\GUI programmering.pdb
+C:\projects\GUI programmering\GUI programmering\obj\Debug\Views\MainWindow.g.cs
+C:\projects\GUI programmering\GUI programmering\obj\Debug\App.g.cs
+C:\projects\GUI programmering\GUI programmering\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\projects\GUI programmering\GUI programmering\obj\Debug\GUI programmering_MarkupCompile.cache
+C:\projects\GUI programmering\GUI programmering\obj\Debug\GUI programmering_MarkupCompile.lref
+C:\projects\GUI programmering\GUI programmering\obj\Debug\Views\MainWindow.baml
+C:\projects\GUI programmering\GUI programmering\obj\Debug\GUI programmering.g.resources
+C:\projects\GUI programmering\GUI programmering\obj\Debug\GUI_programmering.Properties.Resources.resources
+C:\projects\GUI programmering\GUI programmering\obj\Debug\GUI programmering.csproj.GenerateResource.cache
+C:\projects\GUI programmering\GUI programmering\obj\Debug\GUI programmering.csproj.CoreCompileInputs.cache
+C:\projects\GUI programmering\GUI programmering\obj\Debug\GUI programmering.exe
+C:\projects\GUI programmering\GUI programmering\obj\Debug\GUI programmering.pdb
+C:\projects\GUI programmering\GUI programmering\obj\Debug\Views\BoardUserControl.g.cs
+C:\projects\GUI programmering\GUI programmering\obj\Debug\Views\BoardUserControl.baml
+C:\projects\GUI programmering\GUI programmering\obj\Debug\GUI programmering.csproj.AssemblyReference.cache
